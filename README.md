@@ -11,3 +11,8 @@ python -c "import torch; print(torch.cuda.is_available())"
 如果看到 `True` 则说明安装成功。
 
 若遇到类似 `Can't pickle local object` 的报错，请设置 `dataloader_num_workers: 0`。
+
+**Q: Error related to 'gbk' encoding on Windows / windows下出现'gbk'编码相关的错误**
+
+Manually set environment variable PYTHONUTF8=1.  
+可以手动设置环境变量PYTHONUTF8=1。
