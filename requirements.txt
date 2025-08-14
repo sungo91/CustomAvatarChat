@@ -1,0 +1,36 @@
+aiohttp~=3.11.12
+aiortc~=1.13.0
+dynaconf~=3.2.7
+fastapi[standard]~=0.115.12
+gradio~=5.9.1
+librosa~=0.10.2
+loguru~=0.7.3
+modelscope>=1.25.0
+numpy<=1.26.4
+openai>=1.72.0
+opencv-python-headless~=4.11.0
+pip>=25.0.1
+pyaml>=25.1.0
+pydantic~=2.10.6
+pyyaml~=6.0.2
+scipy~=1.15.1
+setuptools>=78.1.0
+soundfile~=0.13.1
+starlette~=0.41.3
+tqdm~=4.67.1
+typing-extensions~=4.12.2
+uvicorn~=0.34.0
+torch
+torchvision
+torchaudio
+python-dotenv>=1.1.0
+funasr~=1.2.3
+onnxruntime==1.20.1
+edge-tts>=7.0.0
+addict~=2.4.0
+yapf==0.40.1
+transformers~=4.44.1
+termcolor~=3.0.1
+audioop-lts; python_version >= '3.13'
+standard-aifc; python_version >= '3.13'
+standard-sunau; python_version >= '3.13'
