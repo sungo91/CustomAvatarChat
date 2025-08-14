@@ -50,9 +50,8 @@ python src/demo.py
 ```
 
 #### 感谢
-  ```
-https://github.com/HumanAIGC-Engineering/OpenAvatarChat
-https://github.com/HumanAIGC-Engineering/gradio-webrtc
-https://github.com/snakers4/silero-vad
-https://github.com/aigc3d/LAM
-  ```
+* https://github.com/HumanAIGC-Engineering/OpenAvatarChat
+* https://github.com/HumanAIGC-Engineering/gradio-webrtc
+* https://github.com/snakers4/silero-vad
+* https://github.com/aigc3d/LAM
+
