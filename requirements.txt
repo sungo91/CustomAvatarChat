@@ -34,3 +34,4 @@ termcolor~=3.0.1
 audioop-lts; python_version >= '3.13'
 standard-aifc; python_version >= '3.13'
 standard-sunau; python_version >= '3.13'
+./src/third_party/gradio_webrtc_videochat/dist/fastrtc-0.0.19.dev0-py3-none-any.whl
